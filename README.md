@@ -1,3 +1,5 @@
+![Xiaomi Poco M4 5G](https://forum.xda-developers.com/attachments/20221122_205346-jpg.5767783/)
+
 Whats Not Working 
 Touch Does Not Work (Xiaomi Disabled It From Kernel Side Let's Wait :- For Using Twrp You Can Use Mouse Via OTG To Use TWRP)
 Decryption(Didn't Tested)
@@ -27,5 +29,4 @@ The Xiaomi Poco M4 5G (codenamed _"light"_) is an entry-level smartphone from Xi
 
 
 ## Device picture
-
 ![Xiaomi Poco M4 5G](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m4-5g-2.jpg)
